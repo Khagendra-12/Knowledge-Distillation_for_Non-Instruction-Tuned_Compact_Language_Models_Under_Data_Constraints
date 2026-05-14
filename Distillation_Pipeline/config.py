@@ -1,6 +1,6 @@
 TEACHER_MODEL = "mistralai/Mistral-7B-Instruct-v0.1"
-STUDENT_MODEL_S = "../Baseline-160m/outputs/tinymistral-sft-merged-soft"
-STUDENT_MODEL = "../Baseline-160m/outputs/tinymistral-sft-merged"
+STUDENT_MODEL_S = "../Baseline/outputs/tinymistral-sft-merged-soft"
+STUDENT_MODEL = "../Baseline/outputs/tinymistral-sft-merged"
 DATASET_NAME = "databricks/databricks-dolly-15k"
 
 MAX_LENGTH = 512
