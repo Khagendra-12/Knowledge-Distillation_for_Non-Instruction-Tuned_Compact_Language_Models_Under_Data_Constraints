@@ -458,7 +458,7 @@ If you use this code or findings in your research, please cite:
                Under Data Constraints and Impact of Pre-Distillation Fine-Tuning},
   author    = {Khagendra},
   journal   = {IEEE},
-  year      = {2025},
+  year      = {2026},
   note      = {Manuscript in preparation}
 }
 ```
