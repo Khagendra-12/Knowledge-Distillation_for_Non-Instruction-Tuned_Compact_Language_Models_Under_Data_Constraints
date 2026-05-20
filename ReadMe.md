@@ -479,6 +479,6 @@ This work builds on the following prior research:
 
 <div align="center">
 
-Made with 🔬 for research reproducibility &nbsp;|&nbsp; Questions? Open an issue.
+
 
 </div>
