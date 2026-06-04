@@ -1,5 +1,5 @@
 
-# Knowledge Distillation for Non-Instruction-Tuned Compact Language Models Under Data Constraints
+# Knowledge Distillation for Non-Instruction-Tuned Compact Language Models Under Data Constraints & Impact of Pre-Distillation Fine-Tuning
 
 ## Impact of Pre-Distillation Fine-Tuning on Student Model Performance
 
